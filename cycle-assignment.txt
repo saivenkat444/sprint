@@ -1,0 +1,25 @@
+3 7 seq_location:63 seq_length:5
+cycle_location:100 cycle_length:99
+3 start one:1 zero:0 seq_count:0
+cycle_count:0
+start:4 seq_length zero stop
+4 cycle_length zero stop
+7 cycle_location result
+7 cycle_length cycle_count 
+
+set:7 seq_location term
+7 zero seq_count
+cycle_loop:4 cycle_count zero stop
+2 cycle_count one cycle_count
+
+
+seq_loop:7 term:0 result:0
+1 term one term
+1 result one result
+1 seq_count one seq_count
+5 seq_count seq_length cycle_loop
+
+3 set
+
+stop:9
+1 2 3 4 5 6 7 8 9
