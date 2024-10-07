@@ -1,0 +1,19 @@
+3 6
+first_element_location:57
+length:5
+result:2
+3 start
+count:1 first:0 second:0 two:2 one:1
+start:7 count first
+7 length second
+7 first_element_location first_element
+1 first_element_location length second_element
+2 second_element one second_element
+check:5 length two stop
+again:4 first_element:0 second_element:0 next
+2 result one result 3 stop
+next:1 first_element one first_element
+2 second_element one second_element
+5 first_element second_element again
+stop:9
+1 2 3 2 1
